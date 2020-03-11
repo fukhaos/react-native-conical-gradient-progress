@@ -1,6 +1,6 @@
 {
   "name": "react-native-conical-gradient-progress",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "React Native component for creating animated, conical gradient progress with react-native-svg",
   "main": "index.js",
   "repository": {
